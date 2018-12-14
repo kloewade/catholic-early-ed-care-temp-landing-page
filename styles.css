@@ -130,4 +130,10 @@ img {
     width: 100%;
     object-fit: fill;
     background-size: cover;
+    text-decoration: none;
+    border: 0;
+}
+
+.image-link {
+  text-decoration: none;
 }
